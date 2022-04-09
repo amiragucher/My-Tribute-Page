@@ -1,5 +1,5 @@
 # README - Learning Journey step 7
-
+my name is amira
 ## 7.2 - Your Tribute Page
 
 You will now be using git and vscode to:
