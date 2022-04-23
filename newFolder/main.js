@@ -1,17 +1,14 @@
-// while(true){
-    
-//     const Response = prompt ("Callum smells");
-// console.log (Response);
-// if (Response === "no"){
-//     prompt ("WRONG ANSWER")
-// }
-// if (Response === "yes"){
-//     prompt ("I KNOW RIGHT")
-// }else{alert ("Write something ass hole")}
+ while(true){
+   
+     const Response = prompt ("Callum is a good guy");
+ console.log (Response);
+ if (Response === "no"){     prompt ("WRONG ANSWER")
+ }
+ if (Response === "yes"){
+     prompt ("I KNOW RIGHT")
+ }else{alert ("Write something ass hole")}
 
 
-
-// }
 
 
 
