@@ -1,7 +1,7 @@
 
 const callumHasBeenInsulted = false;
 while (!callumHasBeenInsulted) {
-  const Response = prompt("Callum is a good guy");
+  const Response = prompt("Callum smells");
   console.log(Response);
   if (Response === "no") {
     prompt("WRONG ANSWER");
